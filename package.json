@@ -1,6 +1,6 @@
 {
-  "name": "waterline-sql-builder",
-  "version": "3.0.1",
+  "name": "marciemarc425-waterline-sql-builder",
+  "version": "3.0.2",
   "description": "Generate SQL (stage 5 query) from a Waterline statement (stage 4 query).",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha test/unit --recursive",
@@ -20,10 +20,6 @@
     "mssql",
     "knex"
   ],
-  "author": "The Sails Company",
-  "contributors": [
-    "Cody Stoltman <@particlebanana>"
-  ],
   "license": "MIT",
   "dependencies": {
     "knex": "2.4.2",
@@ -38,6 +34,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:treelinehq/waterline-sql-builder.git"
+    "url": "git@github.com:marciemarc425/waterline-sql-builder.git"
   }
 }
