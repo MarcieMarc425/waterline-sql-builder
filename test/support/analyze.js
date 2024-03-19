@@ -3,7 +3,7 @@
  * For use with Sequelizer tests.
  */
 
-var Utils = require('waterline-utils');
+var Utils = require('marciemarc425-waterline-utils');
 
 module.exports = function(expression) {
   var tokens = Utils.query.tokenizer(expression);

@@ -16,7 +16,7 @@
 // the many supported drivers or run independently.
 
 var Knex = require('knex');
-var Utils = require('waterline-utils');
+var Utils = require('marciemarc425-waterline-utils');
 var Sequelizer = require('./lib/sequelizer');
 
 module.exports = function sqlBuilder(options) {
